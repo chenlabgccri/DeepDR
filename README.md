@@ -13,7 +13,9 @@ This code pretrains an autoencoder using unlabeled gene mutation or gene express
 **TrainModel.py:**
 This code trains an IC50 predictor using labeled cell-line screening data, predicts new samples (e.g., unscreened cell lines or tumors), and output the model and prediction results.
 
-## Input genomic and Ic50 data
+Instructions are provided within individual codes.
+
+## Input genomic and IC50 data
 For details regarding input/output data preparation and sources, please refer to the Methods section of our [paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0460-9#Sec2).
 
 ## Environment
